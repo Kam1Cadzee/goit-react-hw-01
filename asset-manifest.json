@@ -1,11 +1,11 @@
 {
-  "main.js": "/Kam1Cadzee/goit-react-hw-01/static/js/main.88ddd8ff.chunk.js",
-  "main.js.map": "/Kam1Cadzee/goit-react-hw-01/static/js/main.88ddd8ff.chunk.js.map",
-  "runtime~main.js": "/Kam1Cadzee/goit-react-hw-01/static/js/runtime~main.4adfe710.js",
-  "runtime~main.js.map": "/Kam1Cadzee/goit-react-hw-01/static/js/runtime~main.4adfe710.js.map",
-  "static/js/2.b41502e9.chunk.js": "/Kam1Cadzee/goit-react-hw-01/static/js/2.b41502e9.chunk.js",
-  "static/js/2.b41502e9.chunk.js.map": "/Kam1Cadzee/goit-react-hw-01/static/js/2.b41502e9.chunk.js.map",
-  "index.html": "/Kam1Cadzee/goit-react-hw-01/index.html",
-  "precache-manifest.07808d117c4d2bb6327a943d30571d0c.js": "/Kam1Cadzee/goit-react-hw-01/precache-manifest.07808d117c4d2bb6327a943d30571d0c.js",
-  "service-worker.js": "/Kam1Cadzee/goit-react-hw-01/service-worker.js"
+  "main.js": "/goit-react-hw-01/static/js/main.88ddd8ff.chunk.js",
+  "main.js.map": "/goit-react-hw-01/static/js/main.88ddd8ff.chunk.js.map",
+  "runtime~main.js": "/goit-react-hw-01/static/js/runtime~main.bdf556df.js",
+  "runtime~main.js.map": "/goit-react-hw-01/static/js/runtime~main.bdf556df.js.map",
+  "static/js/2.b41502e9.chunk.js": "/goit-react-hw-01/static/js/2.b41502e9.chunk.js",
+  "static/js/2.b41502e9.chunk.js.map": "/goit-react-hw-01/static/js/2.b41502e9.chunk.js.map",
+  "index.html": "/goit-react-hw-01/index.html",
+  "precache-manifest.86f8753c8bf1f74b3640e9a624a99d33.js": "/goit-react-hw-01/precache-manifest.86f8753c8bf1f74b3640e9a624a99d33.js",
+  "service-worker.js": "/goit-react-hw-01/service-worker.js"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Kam1Cadzee/goit-react-hw-01/precache-manifest.07808d117c4d2bb6327a943d30571d0c.js"
+  "/goit-react-hw-01/precache-manifest.86f8753c8bf1f74b3640e9a624a99d33.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Kam1Cadzee/goit-react-hw-01/index.html", {
+workbox.routing.registerNavigationRoute("/goit-react-hw-01/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
