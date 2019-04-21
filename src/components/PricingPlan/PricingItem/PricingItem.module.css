@@ -1,0 +1,51 @@
+.pricingItem {
+}
+.icon {
+  display: block;
+  height: 162px;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+.label {
+  font-family: Oswald, sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 1.75px;
+}
+.capacity {
+  color: #b4b4b4;
+  font-family: Oswald, sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.85px;
+}
+.description {
+  color: #bababa;
+  font-family: Raleway, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0.75px;
+}
+.price {
+  color: #7f8c8d;
+  font-family: Oswald, sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+.button {
+  color: #ffffff;
+  font-family: Oswald, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.75px;
+  width: 200px;
+  height: 50px;
+  background-color: #dd7c4b;
+  border: none;
+}
